@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">BudgetWiseProj</string>
+  
+  <string name="home">Home</string>
+  <string name="trends">Trends</string>
+  <string name="transaction">Transactions</string>
+  <string name="community">Community</string>
+  <string name="profile">Profile</string>
+
+
+</resources>
